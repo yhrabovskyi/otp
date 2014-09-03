@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OTP Master Degree</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_counter">Enter a number of the counter</string>
+    <string name="button_generate">Generate</string>
+    <string name="radiobutton_hotp">HOTP</string>
+    <string name="radiobutton_totp">TOTP</string>
+    <string name="counter_values">counters</string>
+    
+    <string-array name="users_array">
+        <item>User 1</item>
+        <item>User 2</item>
+        <item>User 3</item>
+        <item>User 4</item>
+        <item>User 5</item>
+    </string-array>
+    
+
+</resources>
